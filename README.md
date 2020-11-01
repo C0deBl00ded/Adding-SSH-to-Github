@@ -31,3 +31,7 @@ Adding SSH key to github using Git bash on windows machine.
     If your SSH key file has a different name than the example code, modify the filename to match your current setup. When copying your key, don't add any newlines or        whitespace.
 
     > $ clip < ~/.ssh/id_rsa.pub
+    
+    
+# REFERENCE
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
